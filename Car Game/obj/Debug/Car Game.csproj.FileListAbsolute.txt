@@ -1,0 +1,7 @@
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\bin\Debug\Car Game.exe.config
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\bin\Debug\Car Game.exe
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\bin\Debug\Car Game.pdb
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\obj\Debug\Car Game.csprojAssemblyReference.cache
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\obj\Debug\Car Game.csproj.CoreCompileInputs.cache
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\obj\Debug\Car Game.exe
+C:\Users\Extreme PC\source\repos\Car Game\Car Game\obj\Debug\Car Game.pdb
